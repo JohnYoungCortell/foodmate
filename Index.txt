@@ -8,5 +8,9 @@ Add onlther link
 Add a third link
 new parra
 another new parra
+squash update 1
+Squash update 2
+Squash update 3
+
 
 
